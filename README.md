@@ -16,7 +16,7 @@ PyStudy-(학번)
 
 폴더를 생성할 때, 다음과 같은 형태로 구성합니다.
 
-![structure]()
+![structure](https://github.com/iuicoding/example/blob/main/image/img.png)
 
 각각의 폴더는 이전 차시 혹은 다음 차시 수업과 구분될 수 있도록 합니다.
 
